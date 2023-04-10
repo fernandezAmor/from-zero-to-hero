@@ -35,7 +35,18 @@ Some modules could include a set of exercises that you can play with at your own
 
 ## Getting Started
 
-To get started with this plan, simply clone this repository to your local machine and open the `index.html` file in your browser and let's get started.
+To get started with this plan, simply clone this repository to your local machine and set it up.
+
+### Set up
+
+To run the solution just:
+
+- Run `npm install`.
+- Run `npm run dev`.
+
+To build the solution just:
+
+- Run `npm run build`. It will create a bundle under `/dist` directory.
 
 ## Deploying it
 
